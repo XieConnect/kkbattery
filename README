@@ -1,0 +1,30 @@
+[DESCRIPTION]
+kbattery is a small tool to display battery status. It has been tested on GNU/Linux.
+
+[INSTALL]
+Download the source code using git:
+git clone git://github.com/XieConnect/kbattery.git
+
+Enter the source code directory and compile:
+cd DIRECTORY_OF_KBATTERY
+make
+
+
+[USAGE]
+Enter the directory where you compiled kbattery:
+cd DIRECTORY_OF_KBATTERY
+
+Run the command:
+./kbattery
+
+Here is the sample output:
+Now   $$$$$$$$$$$$$$$$$     85%
+Full  $$$$$$$$$$$$$$$$$$$$  100%
+
+
+[AUTHOR]
+Wei Xie <XieConnect (at) gmail.com>
+
+
+[LICENSE]
+Undecided yet
